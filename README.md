@@ -5,7 +5,7 @@ Version Control:
    its basically a way to track our code ,documents,computer programs,large websites and other collection of information.
   
 
-Terms used :
+                                              Terms used :
 1)Directory:
       its also known as Folder.
 2)Terminal or command line:
@@ -21,12 +21,22 @@ Terms used :
 7)Github:
       A website to host users repositories.
       
+      
+      
+      
 Git commands:(all commands are in lower case)
+
       1)clone-Bring a repository that is hosted somewhere like github into a folder on users local machine.
+      
       2)add:Track your files and changes in git.
+      
       3)commit:save users files in git.
+      
       4)push:Upload Git commits to aremote repo ,like Github.
       5)push:Download changes from remote repo to users local machine ,the opposite of push.
+      
+      
+      
  
 Git installation:
       Git for windows stand alone installer.
