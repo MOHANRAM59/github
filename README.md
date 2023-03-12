@@ -30,7 +30,7 @@ Version Control:
       
       
       
-Git commands:(all commands are in lower case)
+                                          Git commands:(all commands are in lower case)
 
       1)clone-Bring a repository that is hosted somewhere like github into a folder on users local machine.
       
