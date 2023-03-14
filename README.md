@@ -60,6 +60,5 @@ Git installation:
       
       
       
-      ![image](https://user-images.githubusercontent.com/107848760/225014053-d8b4a010-ff06-4dc9-adcc-35c8b434f916.png)
 
  
