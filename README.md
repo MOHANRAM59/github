@@ -55,4 +55,11 @@ Git installation:
       3)the command prompt.
       
       5)run the commands to configure your Git username and email using the following commands.
+      
+      
+      
+      
+      
+      ![image](https://user-images.githubusercontent.com/107848760/225014053-d8b4a010-ff06-4dc9-adcc-35c8b434f916.png)
+
  
